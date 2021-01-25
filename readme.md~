@@ -1,5 +1,5 @@
 # Charter
-# TEST
+
 Turns `.chordpro` files into formatted HTML chord charts and renders them to PDF.
 
 Turn something like this...
